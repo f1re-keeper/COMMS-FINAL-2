@@ -1,0 +1,6 @@
+@COMMSFinalProject_HostAddress = http://localhost:5105
+
+GET {{COMMSFinalProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
