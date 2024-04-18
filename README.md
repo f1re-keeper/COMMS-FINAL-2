@@ -1,6 +1,6 @@
 # COMMS-FINAL-2
 This project implements a Web API for managing users' loans and also how users interact with their loans and how accountants interact with users
-
+# Controllers
 Accountant Controller:
 Allows accountants to view, update, and delete loans. Accountants can also block users for a certain period, prohibiting them from making any loans.
 
